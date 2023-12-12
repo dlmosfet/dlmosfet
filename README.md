@@ -1,4 +1,4 @@
-- 躺平派學員
+- 基礎學員
 - 基礎程式語法 https://quickref.me/
 - 基礎程式語法學習查詢(一) https://learn.microsoft.com/zh-tw/?view=msvc-170
 - 基礎程式語法查詢(二) https://www.w3schools.com/cs/cs_user_input.php
