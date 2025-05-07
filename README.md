@@ -7,9 +7,9 @@
 - C,C++,JAVA,Python試題資源 https://apcs.csie.ntnu.edu.tw/index.php/questionstypes/websites/
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">studying</h3>
 <p align="left">
 </p>
 
